@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
@@ -62,11 +63,13 @@ a {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD"
 }
 
 .secondary-text {
     font-size: 18px;
     color: #E5E7EB;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD"
 }
 
 .button-hero {
